@@ -1,12 +1,10 @@
 <h1 align="center">Hi, I'm ppputtyo</h1>
 <p align="left">
 </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppputtyo&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ppputtyo&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ppputtyo&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ppputtyo&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ppputtyo&theme=github&utcOffset=8)
+## [default](./default/README.md)
+[![](https://raw.githubusercontent.com/ppputtyo/ppputtyo/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ppputtyo/ppputtyo/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ppputtyo/ppputtyo/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ppputtyo/ppputtyo/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ppputtyo/ppputtyo/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <h3 align="left">Languages and Tools:</h3>
