@@ -2,7 +2,11 @@
 <p align="left">
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppputtyo&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppputtyo&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ppputtyo&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ppputtyo&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ppputtyo&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ppputtyo&theme=github&utcOffset=8)
 
 
 <h3 align="left">Languages and Tools:</h3>
