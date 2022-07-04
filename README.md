@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> 👉👉👉 <a href=https://ppputtyo.github.io/>my homepage</a> 👈👈👈   </h1>
+<h1> 👉<a href=https://ppputtyo.github.io/>my homepage</a> 👈  </h1>
 
 
 [![](https://raw.githubusercontent.com/ppputtyo/ppputtyo/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
